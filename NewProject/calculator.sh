@@ -3,4 +3,4 @@ x=a+b
 
 
 Substraction
-y=a-b
+y=c-d
